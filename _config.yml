@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rodrigo's homepage"
 title_separator          : "-"
 name                     : &name "Rodrigo Zelada"
-description              : &description "personal description"
+description              : &description "I'm a PhD student in cotutelle between the University of Pau and Adour Countries and the University of Chile."
 url                      : https://rodrigozelada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RodrigoZelada/rodrigozelada.github.io"
@@ -21,14 +21,14 @@ repository               : "RodrigoZelada/rodrigozelada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Presentation.png"
+  name             : "Rodrigo Zelada"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Pau, France"
+  employer         : "University of Pau and Adour Countries, University of Chile"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rodrigo.zelada-mancini@univ-pau.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
