@@ -24,7 +24,7 @@ author:
   avatar           : "Presentation.jpg"
   name             : "Rodrigo Zelada"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Applied Mathematics."
   location         : "Pau, France"
   employer         : "University of Pau and Adour Countries, University of Chile"
   uri              : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "RodrigoZelada"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
