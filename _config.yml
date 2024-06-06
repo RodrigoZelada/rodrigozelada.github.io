@@ -21,7 +21,7 @@ repository               : "RodrigoZelada/rodrigozelada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Presentation.png"
+  avatar           : "Presentation.jpg"
   name             : "Rodrigo Zelada"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
