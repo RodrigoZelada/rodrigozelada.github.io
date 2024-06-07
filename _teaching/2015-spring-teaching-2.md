@@ -8,12 +8,20 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
+<video controls>
+<source src="videos/Tisolant.mp4" type="video/mp4">
+</video>
+
+<video controls>
+<source src="https://github.com/RodrigoZelada/rodrigozelada.github.io/tree/master/videos/Tisolant.mp4" type="video/mp4">
+</video>
+
  <video width="320" height="240" autoplay>
   <source src="videos/Tisolant.mp4" type="video/mp4">
 </video> 
 
 
- <video width="320" height="240" autoplay>
+ <video controls="" width="800" height="500" muted="" loop="" autoplay="">
   <source src="https://github.com/RodrigoZelada/rodrigozelada.github.io/tree/master/videos/Tisolant.mp4" type="video/mp4">
 </video> 
 
