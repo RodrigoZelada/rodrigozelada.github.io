@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
  <video width="320" height="240" autoplay>
-  <source src="Tisolant.avi" type="video/avi">
+  <source src="videos/Tisolant.avi" type="video/avi">
 </video> 
 
 <iframe
