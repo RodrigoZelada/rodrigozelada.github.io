@@ -9,7 +9,7 @@ Trying to put videos
 <iframe
   width="640"
   height="480"
-  src="https://youtu.be/duQKcOU56LQ"
+  src="https://youtube.com/embed/duQKcOU56LQ"
   frameborder="0"
   allow="autoplay; encrypted-media"
   allowfullscreen
@@ -19,7 +19,7 @@ Trying to put videos
 <iframe
   width="640"
   height="480"
-  src="https://youtu.be/GKTavEOfMZ4"
+  src="https://youtube.com/embed/GKTavEOfMZ4"
   frameborder="0"
   allow="autoplay; encrypted-media"
   allowfullscreen
@@ -28,7 +28,7 @@ Trying to put videos
 
 <div class="embed-container">
   <iframe
-      src="https://youtu.be/GKTavEOfMZ4"
+      src="https://youtube.com/embed/GKTavEOfMZ4"
       width="700"
       height="480"
       frameborder="0"
