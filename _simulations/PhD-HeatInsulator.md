@@ -1,7 +1,7 @@
 ---
 title: "Heat insulator"
-permalink: /numericalsimulations/PhD-HeatInsulator
-collection: numericalsimulations
+permalink: /simulations/PhD-HeatInsulator
+collection: simulations
 date: 2024-06-07
 
 ---

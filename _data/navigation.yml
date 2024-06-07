@@ -7,7 +7,7 @@ main:
     url: /publications/
   
   - title: "Numerical Simulations"
-    url: /numericalsimulations/   
+    url: /simulations/   
 
   - title: "Talks"
     url: /talks/    

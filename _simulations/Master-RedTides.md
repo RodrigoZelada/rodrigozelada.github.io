@@ -1,7 +1,7 @@
 ---
 title: "Red tides"
-permalink: /numericalsimulations/Master-RedTides
-collection: numericalsimulations
+permalink: /simulations/Master-RedTides
+collection: simulations
 date: 2020-04-20
 ---
 
