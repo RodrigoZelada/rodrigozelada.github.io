@@ -8,11 +8,11 @@ These animations are part of my master project (available only in Spanish):
 
  Navier-Stokes and convection-diffusion equations were implented in MATLAB by using Finite Volume Method.
 
-<video controls>
+<video width="640" height="480" controls>
     <source src="/videos/VelocityParticles.mp4" type="video/mp4">
 </video>
 
-<video controls>
+<video width="640" height="480" controls>
     <source src="/videos/Concentration.mp4" type="video/mp4">
 </video>
 
