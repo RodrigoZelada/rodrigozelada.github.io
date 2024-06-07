@@ -3,7 +3,7 @@ title: "Nitsche extended finite element method of a Ventcel transmission problem
 collection: publications
 permalink: /publication/2024-Nitsche
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-05-29
 venue: 'Submitted.'
 paperurl: 'https://univ-pau.hal.science/hal-04587596v1/document'
 citation: 'Daniela Capatina, Fabien Caubet, Marc Dambrine, Rodrigo Zelada. Nitsche extended finite element method of a Ventcel transmission problem with discontinuities at the interface. 2024. (hal-04587596).'
