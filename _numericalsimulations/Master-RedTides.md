@@ -1,7 +1,8 @@
 ---
 title: "Red tides"
-permalink: /numericalsimulations/
-
+permalink: /numericalsimulations/Master-RedTides
+collection: numericalsimulations
+date: 2020-04-20
 ---
 
 Trying to put videos
