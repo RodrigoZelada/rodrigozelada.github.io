@@ -17,9 +17,8 @@ video 1
 video 2
 
 <video controls>
-<source src="https://github.com/RodrigoZelada/rodrigozelada.github.io/tree/master/videos/Tisolant.mp4" type="video/mp4">
+<source src="../videos/Tisolant.mp4" type="video/mp4">
 </video>
-
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
