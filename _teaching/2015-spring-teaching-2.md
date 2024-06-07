@@ -8,19 +8,10 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-video 1
-
-<video controls>
-<source src="Tisolant.mp4" type="video/mp4">
-</video>
-
-video 2
-
-<video controls>
+<video width="640" height="480" controls>
 <source src="../videos/Tisolant.mp4" type="video/mp4">
 </video>
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
