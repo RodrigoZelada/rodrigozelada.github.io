@@ -30,15 +30,6 @@ Do videos work here?
 >
 </iframe>
 
-<div class="embed-container">
-  <iframe
-      src="https://youtube.com/embed/GKTavEOfMZ4"
-      width="700"
-      height="480"
-      frameborder="0"
-      allowfullscreen="true">
-  </iframe>
-</div>
 
 This is a description of a teaching experience. You can use markdown like any other post.
 

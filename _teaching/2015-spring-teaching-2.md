@@ -8,6 +8,20 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
+ <video width="320" height="240" autoplay>
+  <source src="Tisolant.avi" type="video/avi">
+</video> 
+
+<iframe
+  width="640"
+  height="480"
+  src="https://youtube.com/embed/3xAK2d_HKs0"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen
+>
+</iframe>
+
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
