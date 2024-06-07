@@ -2,7 +2,7 @@
 title: "Nitsche extended finite element method of a Ventcel transmission problem with discontinuities at the interface"
 collection: publications
 permalink: /publication/2024-Nitsche-extended-ventcel
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2024
 venue: 'Submitted.'
 paperurl: 'https://univ-pau.hal.science/hal-04587596v1/document'
