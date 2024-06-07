@@ -9,7 +9,7 @@ location: "City, Country"
 ---
 
 <video controls>
-<source src="videos/Tisolant.mp4" type="video/mp4">
+<source src="Tisolant.mp4" type="video/mp4">
 </video>
 
 <video controls>
@@ -17,7 +17,7 @@ location: "City, Country"
 </video>
 
  <video width="320" height="240" autoplay>
-  <source src="videos/Tisolant.mp4" type="video/mp4">
+  <source src="Tisolant.mp4" type="video/mp4">
 </video> 
 
 
