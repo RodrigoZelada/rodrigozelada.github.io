@@ -1,9 +1,7 @@
 ---
 title: "Heat insulator"
-permalink: /simulations/PhD-HeatInsulator
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: simulations
-date: 2024-06-07
-
 ---
 
 <iframe
