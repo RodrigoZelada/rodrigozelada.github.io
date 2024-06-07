@@ -5,12 +5,15 @@ main:
 
   - title: "Publications"
     url: /publications/
+  
+  - title: "Numerical Simulations"
+    url: /numericalsimulations/   
 
   - title: "Talks"
     url: /talks/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
 
     
     
