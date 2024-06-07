@@ -8,6 +8,8 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
+Do videos work here?
+
 <iframe
   width="640"
   height="480"
