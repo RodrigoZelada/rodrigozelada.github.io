@@ -9,6 +9,9 @@ main:
   - title: "Numerical Simulations"
     url: /simulations/   
 
+  - title: "Numerical Simulations II"
+    url: /simulations2/  
+
   - title: "Talks"
     url: /talks/    
 
