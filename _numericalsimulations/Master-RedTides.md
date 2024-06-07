@@ -4,6 +4,8 @@ permalink: /numericalsimulations/
 
 ---
 
+Trying to put videos
+
 <iframe
   width="640"
   height="480"
