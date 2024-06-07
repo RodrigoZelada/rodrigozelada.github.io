@@ -8,10 +8,6 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-<video width="640" height="480" controls>
-<source src="../videos/Tisolant.mp4" type="video/mp4">
-</video>
-
 
 Heading 1
 ======

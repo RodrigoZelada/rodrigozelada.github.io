@@ -8,27 +8,7 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-Do videos work here?
-
-<iframe
-  width="640"
-  height="480"
-  src="https://youtube.com/embed/duQKcOU56LQ"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen
->
-</iframe>
-
-<iframe
-  width="640"
-  height="480"
-  src="https://youtube.com/embed/GKTavEOfMZ4"
-  frameborder="0"
-  allow="autoplay; encrypted-media"
-  allowfullscreen
->
-</iframe>
+s
 
 
 
