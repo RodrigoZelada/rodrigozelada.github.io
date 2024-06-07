@@ -8,22 +8,17 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
+video 1
+
 <video controls>
 <source src="Tisolant.mp4" type="video/mp4">
 </video>
 
+video 2
+
 <video controls>
 <source src="https://github.com/RodrigoZelada/rodrigozelada.github.io/tree/master/videos/Tisolant.mp4" type="video/mp4">
 </video>
-
- <video width="320" height="240" autoplay>
-  <source src="Tisolant.mp4" type="video/mp4">
-</video> 
-
-
- <video controls="" width="800" height="500" muted="" loop="" autoplay="">
-  <source src="https://github.com/RodrigoZelada/rodrigozelada.github.io/tree/master/videos/Tisolant.mp4" type="video/mp4">
-</video> 
 
 
 This is a description of a teaching experience. You can use markdown like any other post.
