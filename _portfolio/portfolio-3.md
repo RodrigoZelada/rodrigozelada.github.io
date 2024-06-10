@@ -1,5 +1,5 @@
 ---
-title: "Hot to put a heat insulator?"
+title: "How to put a heat insulator?"
 collection: portfolio
 ---
 
