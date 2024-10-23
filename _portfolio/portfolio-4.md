@@ -15,10 +15,10 @@ Shape optimization for heat exchangers with discontinuities at the interface  in
 
 <img src="images/T0CaseHelix.png" alt="Helical heat exchanger">
 
-<img src="images/T0ColdHelixNvidiaIndex.png" alt="Helical heat exchanger">
+<img src="images/T0ColdHelixNvidiaIndex.png" alt="Velocity of the cold fluid">
 
-<img src="images/T0HotHelixNvidiaIndex.png" alt="Helical heat exchanger">
+<img src="images/T0HotHelixNvidiaIndex.png" alt="Velocity of the hot fluid">
 
-<img src="images/ColdVelocityCaseHelix.png" alt="Helical heat exchanger">
+<img src="images/ColdVelocityCaseHelix.png" alt="Isosurfes of the temperature of the cold fluid">
 
-<img src="images/HotVelocityCaseHelix.png" alt="Helical heat exchanger">
+<img src="images/HotVelocityCaseHelix.png" alt="Isosurfes of the temperature of the hot fluid">
