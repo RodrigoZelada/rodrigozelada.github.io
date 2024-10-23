@@ -19,6 +19,6 @@ Shape optimization for heat exchangers with discontinuities at the interface  in
 
 <img src="images/T0HotHelixNvidiaIndex.png" alt="Velocity of the hot fluid" class="inline"/>
 
-<img src="images/ColdVelocityCaseHelix.png" alt="Isosurfes of the temperature of the cold fluid" class="inline"/>
+<img src="https://github.com/RodrigoZelada/rodrigozelada.github.io/blob/master/images/ColdVelocityCaseHelix.png" alt="Isosurfes of the temperature of the cold fluid" >
 
 <img src="images/HotVelocityCaseHelix.png" alt="Isosurfes of the temperature of the hot fluid" class="inline"/>
