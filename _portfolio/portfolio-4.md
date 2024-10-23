@@ -13,12 +13,12 @@ Shape optimization for heat exchangers with discontinuities at the interface  in
     <source src="/videos/HETemperatureCylinderY.mp4" type="video/mp4">
 </video>
 
-<img src="images/T0CaseHelix.png" alt="Helical heat exchanger" class="inline"/>
+<img src="/images/T0CaseHelix.png" alt="Helical heat exchanger" >
 
-<img src="images/T0ColdHelixNvidiaIndex.png" alt="Velocity of the cold fluid" class="inline"/>
+<img src="/images/T0ColdHelixNvidiaIndex.png" alt="Velocity of the cold fluid" >
 
-<img src="images/T0HotHelixNvidiaIndex.png" alt="Velocity of the hot fluid" class="inline"/>
+<img src="/images/T0HotHelixNvidiaIndex.png" alt="Velocity of the hot fluid">
 
-<img src="https://github.com/RodrigoZelada/rodrigozelada.github.io/blob/master/images/ColdVelocityCaseHelix.png" alt="Isosurfes of the temperature of the cold fluid" >
+<img src="/images/ColdVelocityCaseHelix.png" alt="Isosurfes of the temperature of the cold fluid" >
 
-<img src="images/HotVelocityCaseHelix.png" alt="Isosurfes of the temperature of the hot fluid" class="inline"/>
+<img src="/images/HotVelocityCaseHelix.png" alt="Isosurfes of the temperature of the hot fluid" class="inline"/>
