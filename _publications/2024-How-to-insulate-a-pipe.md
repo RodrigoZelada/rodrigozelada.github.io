@@ -3,7 +3,7 @@ title: "How to insulate a pipe?"
 collection: publications
 permalink: /publication/2024-How-to-insulate-a-pipe
 date: 2024-11-07
-paperurl: 'https://univ-pau.hal.science/hal-04604150v1/document'
+paperurl: 'https://hal.science/hal-04772321v1/document'
 citation: 'Fabien Caubet, Carlos Conca, Marc Dambrine, Rodrigo Zelada. How to insulate a pipe?. 2024. (hal-04772321). '
 ---
 
