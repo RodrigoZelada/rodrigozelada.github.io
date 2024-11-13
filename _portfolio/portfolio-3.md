@@ -3,8 +3,8 @@ title: "How to put insulate a pipe?"
 collection: portfolio
 ---
 
-Fabien Caubet, Carlos Conca, Marc Dambrine, Rodrigo Zelada. How to insulate a pipe?. 2024. hal-04772321, link to the HAL preprint:
- <a href="https://hal.science/hal-04772321v1/document"></a> 
+Fabien Caubet, Carlos Conca, Marc Dambrine, Rodrigo Zelada. How to insulate a pipe?. 2024. hal-04772321, 
+ <a href="https://hal.science/hal-04772321v1/document"> link to the HAL preprint.</a> 
 
 
 <video width="1280" height="720" controls>
