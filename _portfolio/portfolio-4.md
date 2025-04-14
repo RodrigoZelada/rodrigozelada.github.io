@@ -1,17 +1,20 @@
 ---
-title: "Shape optimization for heat exchangers with discontinuities at the interface "
+title: "Shape optimization with Ventcel transmission conditions: application to the design of a heat exchanger"
 collection: portfolio
 ---
 
-Shape optimization for heat exchangers with discontinuities at the interface  in writting process.
+Fabien Caubet, Carlos Conca, Marc Dambrine. Shape optimization with Ventcel transmission conditions: application to the design of a heat exchanger. 2025. (hal-05033794),
+ <a href="https://hal.science/hal-05033794"> link to the HAL preprint.</a> 
 
 <video width="1280" height="720" controls>
-    <source src="/videos/HETemperatureCylinderX.mp4" type="video/mp4">
+    <source src="/videos/TemperatureHE1Square.mp4" type="video/mp4">
 </video>
 
 <video width="1280" height="720" controls>
-    <source src="/videos/HETemperatureCylinderY.mp4" type="video/mp4">
+    <source src="/videos/TemperatureHE1Square.mp4" type="video/mp4">
 </video>
+
+Real-life case: helicoidal heat exchanger
 
 <img src="/images/T0CaseHelix.png" alt="Helical heat exchanger" >
 
