@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Rodrigo's homepage"
 title_separator          : "-"
 name                     : &name "Rodrigo Zelada"
-description              : &description "I'm a PhD student in cotutelle between the University of Pau and Adour Countries and the University of Chile."
+description              : &description "I'm a applied mathematics enthusiastic, in particular of real-life applications."
 url                      : https://rodrigozelada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RodrigoZelada/rodrigozelada.github.io"
@@ -21,12 +21,12 @@ repository               : "RodrigoZelada/rodrigozelada.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Presentation.jpg"
+  avatar           : "PresentationPhD.jpg"
   name             : "Rodrigo Zelada"
   pronouns         : # example: "she/her"  
-  bio              : "Applied Mathematics."
+  bio              : "Ph.D. in Applied Mathematics at University of Pau and Adour Countries and University of Chile."
   location         : "Pau, France"
-  employer         : "University of Pau and Adour Countries, University of Chile"
+  employer         : ""
   uri              : # URL
   email            : "rodrigo.zelada-mancini@univ-pau.fr" 
 
