@@ -11,7 +11,7 @@ Fabien Caubet, Carlos Conca, Marc Dambrine. Shape optimization with Ventcel tran
 </video>
 
 <video width="1280" height="720" controls>
-    <source src="/videos/TemperatureHE1Square.mp4" type="video/mp4">
+    <source src="/videos/TemperatureHE2Square.mp4" type="video/mp4">
 </video>
 
 Real-life case: helicoidal heat exchanger
