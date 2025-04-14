@@ -4,7 +4,7 @@ collection: portfolio
 ---
 
 Fabien Caubet, Carlos Conca, Marc Dambrine. Shape optimization with Ventcel transmission conditions: application to the design of a heat exchanger. 2025. (hal-05033794),
- <a href="https://hal.science/hal-05033794"> link to the HAL preprint.</a> 
+ <a href="https://hal.science/hal-05033794v1/document"> link to the HAL preprint.</a> 
 
 <video width="1280" height="720" controls>
     <source src="/videos/TemperatureHE1Square.mp4" type="video/mp4">
