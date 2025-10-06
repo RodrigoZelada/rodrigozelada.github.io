@@ -1,9 +1,9 @@
 ---
-title: "Shape optimization for thin layer heat exchangers"
-collection: preceedings
+title: "PhD thesis: Shape optimization for thin layers heat exchangers"
+collection: PhD thesis
 permalink: /publication/2025-thesis
 date: 2025-10-06
-venue: 'Monografías matemáticas "García de Galdeano"'
+venue: 'PhD thesis, University of Chile, University of Pau and Adour Countries, March'
 paperurl: 'https://theses.fr/s342636'
 citation: 'R. Zelada. Shape optimization for thin layers heat exchangers. PhD thesis, University of Chile, University of Pau and Adour Countries, March 2025. Available at https://repositorio.uchile.cl/handle/2250/205114.'
 ---
