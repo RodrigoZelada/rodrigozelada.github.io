@@ -3,7 +3,7 @@ title: "Assistant teacher MA5602 - Evolution Problems"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2019-fall-teaching-3
-date: 2019-03
+date: 2019-03-01
 venue: "University of Chile, Department of Mathematical Engineering"
 location: "Santiago, Chile"
 ---
