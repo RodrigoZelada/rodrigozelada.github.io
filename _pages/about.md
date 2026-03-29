@@ -11,7 +11,7 @@ Here you can find my research material and some others stuffs.
 
 Research interests
 ======
-- Scientific computing.
-- Finite element method.
 - Shape optimization.
 - Inverse problems.
+- Numerical analysis.
+- Scientific computing.
