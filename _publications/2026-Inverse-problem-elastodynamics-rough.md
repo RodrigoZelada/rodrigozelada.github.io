@@ -8,4 +8,4 @@ citation: 'R. Zelada, A. Imperiale, and P. Moireau, “An inverse problem for es
 ---
 
 The preceeding will be available soon.
-More work is on progress, in particular, concerning a Reduced Order Extended Kalman Filter and a Reduced Order Unscented Kalman Filter in a scattering inverse problem with different incident angles.
+More work is in progress, in particular, concerning a Reduced Order Extended Kalman Filter and a Reduced Order Unscented Kalman Filter in a scattering inverse problem with different incident angles.
