@@ -21,4 +21,4 @@ My main research interests are:
 - Numerical analysis.
 - Scientific computing.
 
-I aim to address real-world engineering and physical problems, such as fluid dynamics and wave propagation, by spanning the whole process: from mathematical modeling and rigorus analysis to proposing and implementing robusit, high-performance numerical methods.
+I aim to address real-world engineering and physical problems, such as fluid dynamics and wave propagation, by spanning the whole process: from mathematical modeling and rigorus analysis to proposing and implementing robust, high-performance numerical methods.
