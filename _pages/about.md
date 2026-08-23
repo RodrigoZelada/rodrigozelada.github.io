@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Since June 2025, I have been a postdoctoral researcher at CEA Paris-Saclay (LSMA), Inria Saclay and Ecole Polytechnique (<a href="https://cmap.ip-paris.fr/recherche/analyse/ananke">ANENKE</a>), working under the supervision of <a href="https://www.researchgate.net/profile/Alexandre-Imperiale-2">Alexandre Imperiale</a>  and 
+Since June 2025, I have been a postdoctoral researcher at CEA Paris-Saclay (LSMA), Inria Saclay and Ecole Polytechnique (<a href="https://cmap.ip-paris.fr/recherche/analyse/ananke">ANANKE</a>), working under the supervision of <a href="https://www.researchgate.net/profile/Alexandre-Imperiale-2">Alexandre Imperiale</a>  and 
 <a href="http://www.cmap.polytechnique.fr/~philippe.moireau/">Philippe Moireau</a>. My current research focuses on solving inverse problems to estimate effective coefficients in asymptotic elastodynamics with non-periodic roughness, with a particular emphasis on Kalman Filter methods.
 
 I earned my Ph.D. in Applied Mathematics in March 2025 through a cotutelle program between the Universidad de Chile  (<a href="https://www.dim.uchile.cl/">DIM</a>) and the Université de Pau et des Pays de l'Adour (<a href="https://lma-umr5142.univ-pau.fr/en/home.html">LMAP</a>). My doctoral research was supervised by <a href="https://carlosconca.cl/en/inicio-english/">Carlos Conca</a>, <a href="https://fcaubet001.perso.univ-pau.fr/">Fabien Caubet</a> and <a href="https://mdambrin.perso.univ-pau.fr/">Marc Dambrine</a>.
