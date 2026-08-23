@@ -16,9 +16,8 @@ Previously, I completed my engineering and master's degrees at the Universidad d
 
 My main research interests are:
 ======
-- Shape optimization.
-- Inverse problems.
 - Numerical analysis.
+- Numerical methods for PDE-constrained optimization.
 - Scientific computing.
 
 I aim to address real-world engineering and physical problems, such as fluid dynamics and wave propagation, by spanning the whole process: from mathematical modeling and rigorus analysis to proposing and implementing robust, high-performance numerical methods.
